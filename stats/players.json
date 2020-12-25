@@ -208,13 +208,13 @@
     "yahoo_id": 8261
   },
   {
-    "team": "philadelphia eagles",
-    "symbol": "phi",
+    "team": "houston texans",
+    "symbol": "hou",
     "fullname": "josh mccown",
     "first": "josh",
     "last": "mccown",
     "position": "qb",
-    "jersey_number": 14,
+    "jersey_number": 3,
     "sleeper_id": "208",
     "rotowire_id": 2513,
     "espn_id": 3609,
@@ -258,6 +258,19 @@
     "rotowire_id": 5432,
     "espn_id": 11128,
     "yahoo_id": 8544
+  },
+  {
+    "team": "san francisco 49ers",
+    "symbol": "sf",
+    "fullname": "josh johnson",
+    "first": "josh",
+    "last": "johnson",
+    "position": "qb",
+    "jersey_number": 8,
+    "sleeper_id": "260",
+    "rotowire_id": 5653,
+    "espn_id": 11394,
+    "yahoo_id": 8937
   },
   {
     "team": "washington football team",
@@ -455,6 +468,19 @@
     "yahoo_id": 24060
   },
   {
+    "team": "tampa bay buccaneers",
+    "symbol": "tb",
+    "fullname": "antonio brown",
+    "first": "antonio",
+    "last": "brown",
+    "position": "wr",
+    "jersey_number": 81,
+    "sleeper_id": "536",
+    "rotowire_id": 6454,
+    "espn_id": 13934,
+    "yahoo_id": 24171
+  },
+  {
     "team": "new orleans saints",
     "symbol": "no",
     "fullname": "emmanuel sanders",
@@ -468,13 +494,26 @@
     "yahoo_id": 24057
   },
   {
-    "team": "detroit lions",
-    "symbol": "det",
+    "team": "baltimore ravens",
+    "symbol": "bal",
+    "fullname": "dez bryant",
+    "first": "dez",
+    "last": "bryant",
+    "position": "wr",
+    "jersey_number": 88,
+    "sleeper_id": "574",
+    "rotowire_id": 6336,
+    "espn_id": 13215,
+    "yahoo_id": 23999
+  },
+  {
+    "team": "new york giants",
+    "symbol": "nyg",
     "fullname": "joe webb",
     "first": "joe",
     "last": "webb",
     "position": "qb",
-    "jersey_number": 5,
+    "jersey_number": 19,
     "sleeper_id": "606",
     "rotowire_id": 6674,
     "espn_id": 13484,
@@ -702,13 +741,13 @@
     "yahoo_id": 25427
   },
   {
-    "team": "houston texans",
-    "symbol": "hou",
+    "team": "chicago bears",
+    "symbol": "chi",
     "fullname": "dwayne harris",
     "first": "dwayne",
     "last": "harris",
     "position": "wr",
-    "jersey_number": 17,
+    "jersey_number": 82,
     "sleeper_id": "902",
     "rotowire_id": 7385,
     "espn_id": 14100,
@@ -832,13 +871,13 @@
     "yahoo_id": 26389
   },
   {
-    "team": "chicago bears",
-    "symbol": "chi",
+    "team": "washington football team",
+    "symbol": "was",
     "fullname": "lamar miller",
     "first": "lamar",
     "last": "miller",
     "position": "rb",
-    "jersey_number": 26,
+    "jersey_number": 35,
     "sleeper_id": "1048",
     "rotowire_id": 8008,
     "espn_id": 14886,
@@ -871,13 +910,13 @@
     "yahoo_id": 25876
   },
   {
-    "team": "san francisco 49ers",
-    "symbol": "sf",
+    "team": "detroit lions",
+    "symbol": "det",
     "fullname": "mohamed sanu",
     "first": "mohamed",
     "last": "sanu",
     "position": "wr",
-    "jersey_number": 14,
+    "jersey_number": 12,
     "sleeper_id": "1071",
     "rotowire_id": 8026,
     "espn_id": 14922,
@@ -981,7 +1020,7 @@
     "first": "alfred",
     "last": "morris",
     "position": "rb",
-    "jersey_number": 36,
+    "jersey_number": 41,
     "sleeper_id": "1170",
     "rotowire_id": 8089,
     "espn_id": 15009,
@@ -1014,6 +1053,19 @@
     "yahoo_id": 26561
   },
   {
+    "team": "new york giants",
+    "symbol": "nyg",
+    "fullname": "alex tanney",
+    "first": "alex",
+    "last": "tanney",
+    "position": "qb",
+    "jersey_number": 3,
+    "sleeper_id": "1262",
+    "rotowire_id": 8402,
+    "espn_id": 15693,
+    "yahoo_id": 26547
+  },
+  {
     "team": "baltimore ravens",
     "symbol": "bal",
     "fullname": "justin tucker",
@@ -1040,13 +1092,13 @@
     "yahoo_id": 25881
   },
   {
-    "team": "chicago bears",
-    "symbol": "chi",
+    "team": "los angeles rams",
+    "symbol": "lar",
     "fullname": "kai forbath",
     "first": "kai",
     "last": "forbath",
     "position": "k",
-    "jersey_number": 3,
+    "jersey_number": 2,
     "sleeper_id": "1287",
     "rotowire_id": 7544,
     "espn_id": 14816,
@@ -1378,13 +1430,13 @@
     "yahoo_id": 26696
   },
   {
-    "team": "san francisco 49ers",
-    "symbol": "sf",
+    "team": "green bay packers",
+    "symbol": "gb",
     "fullname": "tavon austin",
     "first": "tavon",
     "last": "austin",
     "position": "wr",
-    "jersey_number": 5,
+    "jersey_number": 16,
     "sleeper_id": "1567",
     "rotowire_id": 8793,
     "espn_id": 15786,
@@ -1417,8 +1469,21 @@
     "yahoo_id": 26612
   },
   {
-    "team": "seattle seahawks",
-    "symbol": "sea",
+    "team": "chicago bears",
+    "symbol": "chi",
+    "fullname": "spencer ware",
+    "first": "spencer",
+    "last": "ware",
+    "position": "rb",
+    "jersey_number": 39,
+    "sleeper_id": "1601",
+    "rotowire_id": 8625,
+    "espn_id": 16020,
+    "yahoo_id": 26817
+  },
+  {
+    "team": "baltimore ravens",
+    "symbol": "bal",
     "fullname": "luke willson",
     "first": "luke",
     "last": "willson",
@@ -1560,6 +1625,19 @@
     "yahoo_id": 27789
   },
   {
+    "team": "san francisco 49ers",
+    "symbol": "sf",
+    "fullname": "jordan matthews",
+    "first": "jordan",
+    "last": "matthews",
+    "position": "wr",
+    "jersey_number": 81,
+    "sleeper_id": "1800",
+    "rotowire_id": 9273,
+    "espn_id": 16763,
+    "yahoo_id": 27570
+  },
+  {
     "team": "kansas city chiefs",
     "symbol": "kc",
     "fullname": "sammy watkins",
@@ -1627,8 +1705,8 @@
   {
     "team": "houston texans",
     "symbol": "hou",
-    "fullname": "a.j. mccarron",
-    "first": "a.j.",
+    "fullname": "aj mccarron",
+    "first": "aj",
     "last": "mccarron",
     "position": "qb",
     "jersey_number": 2,
@@ -1664,13 +1742,13 @@
     "yahoo_id": 28188
   },
   {
-    "team": "new york jets",
-    "symbol": "nyj",
+    "team": "new england patriots",
+    "symbol": "ne",
     "fullname": "donte moncrief",
     "first": "donte",
     "last": "moncrief",
     "position": "wr",
-    "jersey_number": 18,
+    "jersey_number": 14,
     "sleeper_id": "1971",
     "rotowire_id": 9276,
     "espn_id": 16791,
@@ -1807,8 +1885,8 @@
     "yahoo_id": 27564
   },
   {
-    "team": "carolina panthers",
-    "symbol": "car",
+    "team": "green bay packers",
+    "symbol": "gb",
     "fullname": "seth roberts",
     "first": "seth",
     "last": "roberts",
@@ -1948,6 +2026,19 @@
     "rotowire_id": 9326,
     "espn_id": 16944,
     "yahoo_id": 27631
+  },
+  {
+    "team": "san francisco 49ers",
+    "symbol": "sf",
+    "fullname": "tyler gaffney",
+    "first": "tyler",
+    "last": "gaffney",
+    "position": "rb",
+    "jersey_number": 34,
+    "sleeper_id": "2189",
+    "rotowire_id": 9526,
+    "espn_id": 16838,
+    "yahoo_id": 27732
   },
   {
     "team": "houston texans",
@@ -2197,8 +2288,8 @@
     "yahoo_id": 28424
   },
   {
-    "team": "houston texans",
-    "symbol": "hou",
+    "team": "new england patriots",
+    "symbol": "ne",
     "fullname": "devin smith",
     "first": "devin",
     "last": "smith",
@@ -2522,13 +2613,13 @@
     "yahoo_id": 28634
   },
   {
-    "team": "tennessee titans",
-    "symbol": "ten",
+    "team": "new orleans saints",
+    "symbol": "no",
     "fullname": "trevor siemian",
     "first": "trevor",
     "last": "siemian",
     "position": "qb",
-    "jersey_number": 4,
+    "jersey_number": 15,
     "sleeper_id": "2549",
     "rotowire_id": 10483,
     "espn_id": 2511109,
@@ -2587,6 +2678,32 @@
     "yahoo_id": 28730
   },
   {
+    "team": "detroit lions",
+    "symbol": "det",
+    "fullname": "khari lee",
+    "first": "khari",
+    "last": "lee",
+    "position": "te",
+    "jersey_number": 86,
+    "sleeper_id": "2686",
+    "rotowire_id": 10503,
+    "espn_id": 3144062,
+    "yahoo_id": 28893
+  },
+  {
+    "team": "washington football team",
+    "symbol": "was",
+    "fullname": "taylor heinicke",
+    "first": "taylor",
+    "last": "heinicke",
+    "position": "qb",
+    "jersey_number": 4,
+    "sleeper_id": "2711",
+    "rotowire_id": 10179,
+    "espn_id": 2565969,
+    "yahoo_id": 28839
+  },
+  {
     "team": "seattle seahawks",
     "symbol": "sea",
     "fullname": "jason myers",
@@ -2613,13 +2730,13 @@
     "yahoo_id": 28654
   },
   {
-    "team": "houston texans",
-    "symbol": "hou",
+    "team": "chicago bears",
+    "symbol": "chi",
     "fullname": "deandre carter",
     "first": "deandre",
     "last": "carter",
     "position": "wr",
-    "jersey_number": 14,
+    "jersey_number": 19,
     "sleeper_id": "2750",
     "rotowire_id": 10234,
     "espn_id": 2580216,
@@ -2639,13 +2756,13 @@
     "yahoo_id": 29102
   },
   {
-    "team": "new york giants",
-    "symbol": "nyg",
+    "team": "baltimore ravens",
+    "symbol": "bal",
     "fullname": "eric tomlinson",
     "first": "eric",
     "last": "tomlinson",
     "position": "te",
-    "jersey_number": 83,
+    "jersey_number": 85,
     "sleeper_id": "2755",
     "rotowire_id": 10553,
     "espn_id": 2511973,
@@ -2808,6 +2925,19 @@
     "yahoo_id": 29238
   },
   {
+    "team": "new york giants",
+    "symbol": "nyg",
+    "fullname": "corey coleman",
+    "first": "corey",
+    "last": "coleman",
+    "position": "wr",
+    "jersey_number": 19,
+    "sleeper_id": "3177",
+    "rotowire_id": 10817,
+    "espn_id": 2978929,
+    "yahoo_id": 29249
+  },
+  {
     "team": "new york jets",
     "symbol": "nyj",
     "fullname": "josh doctson",
@@ -2897,6 +3027,19 @@
     "rotowire_id": 10913,
     "espn_id": 3122866,
     "yahoo_id": 29370
+  },
+  {
+    "team": "indianapolis colts",
+    "symbol": "ind",
+    "fullname": "paul perkins",
+    "first": "paul",
+    "last": "perkins",
+    "position": "rb",
+    "jersey_number": 39,
+    "sleeper_id": "3211",
+    "rotowire_id": 10804,
+    "espn_id": 2971589,
+    "yahoo_id": 29383
   },
   {
     "team": "los angeles chargers",
@@ -3055,8 +3198,21 @@
     "yahoo_id": 29369
   },
   {
-    "team": "minnesota vikings",
-    "symbol": "min",
+    "team": "arizona cardinals",
+    "symbol": "ari",
+    "fullname": "seth devalve",
+    "first": "seth",
+    "last": "devalve",
+    "position": "te",
+    "jersey_number": 86,
+    "sleeper_id": "3296",
+    "rotowire_id": 11221,
+    "espn_id": 2566659,
+    "yahoo_id": 29372
+  },
+  {
+    "team": "kansas city chiefs",
+    "symbol": "kc",
     "fullname": "tajae sharpe",
     "first": "tajae",
     "last": "sharpe",
@@ -3068,26 +3224,26 @@
     "yahoo_id": 29374
   },
   {
-    "team": "kansas city chiefs",
-    "symbol": "kc",
+    "team": "miami dolphins",
+    "symbol": "mia",
     "fullname": "deandre washington",
     "first": "deandre",
     "last": "washington",
     "position": "rb",
-    "jersey_number": 30,
+    "jersey_number": 31,
     "sleeper_id": "3300",
     "rotowire_id": 10893,
     "espn_id": 2577654,
     "yahoo_id": 29377
   },
   {
-    "team": "miami dolphins",
-    "symbol": "mia",
+    "team": "philadelphia eagles",
+    "symbol": "phi",
     "fullname": "jordan howard",
     "first": "jordan",
     "last": "howard",
     "position": "rb",
-    "jersey_number": 34,
+    "jersey_number": 28,
     "sleeper_id": "3306",
     "rotowire_id": 10815,
     "espn_id": 3060022,
@@ -3107,8 +3263,8 @@
     "yahoo_id": 29387
   },
   {
-    "team": "washington football team",
-    "symbol": "was",
+    "team": "detroit lions",
+    "symbol": "det",
     "fullname": "jonathan williams",
     "first": "jonathan",
     "last": "williams",
@@ -3118,6 +3274,32 @@
     "rotowire_id": 10851,
     "espn_id": 2980077,
     "yahoo_id": 29390
+  },
+  {
+    "team": "cincinnati bengals",
+    "symbol": "cin",
+    "fullname": "kevin hogan",
+    "first": "kevin",
+    "last": "hogan",
+    "position": "qb",
+    "jersey_number": 7,
+    "sleeper_id": "3318",
+    "rotowire_id": 11058,
+    "espn_id": 2577128,
+    "yahoo_id": 29396
+  },
+  {
+    "team": "washington football team",
+    "symbol": "was",
+    "fullname": "trevor davis",
+    "first": "trevor",
+    "last": "davis",
+    "position": "wr",
+    "jersey_number": 4,
+    "sleeper_id": "3319",
+    "rotowire_id": 11014,
+    "espn_id": 2573343,
+    "yahoo_id": 29397
   },
   {
     "team": "kansas city chiefs",
@@ -3131,6 +3313,19 @@
     "rotowire_id": 11222,
     "espn_id": 3116406,
     "yahoo_id": 29399
+  },
+  {
+    "team": "seattle seahawks",
+    "symbol": "sea",
+    "fullname": "alex collins",
+    "first": "alex",
+    "last": "collins",
+    "position": "rb",
+    "jersey_number": 41,
+    "sleeper_id": "3327",
+    "rotowire_id": 10803,
+    "espn_id": 3046409,
+    "yahoo_id": 29405
   },
   {
     "team": "cleveland browns",
@@ -3159,8 +3354,8 @@
     "yahoo_id": 29411
   },
   {
-    "team": "baltimore ravens",
-    "symbol": "bal",
+    "team": "detroit lions",
+    "symbol": "det",
     "fullname": "jerell adams",
     "first": "jerell",
     "last": "adams",
@@ -3328,6 +3523,19 @@
     "yahoo_id": 29792
   },
   {
+    "team": "minnesota vikings",
+    "symbol": "min",
+    "fullname": "taylor bertolet",
+    "first": "taylor",
+    "last": "bertolet",
+    "position": "k",
+    "jersey_number": 1,
+    "sleeper_id": "3467",
+    "rotowire_id": 11568,
+    "espn_id": 2578718,
+    "yahoo_id": 29712
+  },
+  {
     "team": "new york giants",
     "symbol": "nyg",
     "fullname": "johnny holton",
@@ -3386,7 +3594,7 @@
     "first": "marken",
     "last": "michel",
     "position": "wr",
-    "jersey_number": 83,
+    "jersey_number": 19,
     "sleeper_id": "3568",
     "rotowire_id": 11501,
     "espn_id": 2591718,
@@ -3425,7 +3633,7 @@
     "first": "tommylee",
     "last": "lewis",
     "position": "wr",
-    "jersey_number": 15,
+    "jersey_number": 14,
     "sleeper_id": "3614",
     "rotowire_id": 11508,
     "espn_id": 2574918,
@@ -3575,6 +3783,19 @@
     "yahoo_id": 29978
   },
   {
+    "team": "new orleans saints",
+    "symbol": "no",
+    "fullname": "jake lampman",
+    "first": "jake",
+    "last": "lampman",
+    "position": "wr",
+    "jersey_number": 19,
+    "sleeper_id": "3864",
+    "rotowire_id": 11276,
+    "espn_id": 3057850,
+    "yahoo_id": 30002
+  },
+  {
     "team": "las vegas raiders",
     "symbol": "lv",
     "fullname": "jalen richard",
@@ -3601,13 +3822,13 @@
     "yahoo_id": 30024
   },
   {
-    "team": "detroit lions",
-    "symbol": "det",
+    "team": "cleveland browns",
+    "symbol": "cle",
     "fullname": "marvin hall",
     "first": "marvin",
     "last": "hall",
     "position": "wr",
-    "jersey_number": 17,
+    "jersey_number": 18,
     "sleeper_id": "3895",
     "rotowire_id": 11517,
     "espn_id": 2578369,
@@ -3692,8 +3913,8 @@
     "yahoo_id": 30161
   },
   {
-    "team": "las vegas raiders",
-    "symbol": "lv",
+    "team": "tennessee titans",
+    "symbol": "ten",
     "fullname": "deshone kizer",
     "first": "deshone",
     "last": "kizer",
@@ -3997,7 +4218,7 @@
     "first": "d'onta",
     "last": "foreman",
     "position": "rb",
-    "jersey_number": 40,
+    "jersey_number": 45,
     "sleeper_id": "4111",
     "rotowire_id": 11685,
     "espn_id": 3125116,
@@ -4069,8 +4290,8 @@
     "yahoo_id": 30218
   },
   {
-    "team": "pittsburgh steelers",
-    "symbol": "pit",
+    "team": "carolina panthers",
+    "symbol": "car",
     "fullname": "amara darboh",
     "first": "amara",
     "last": "darboh",
@@ -4171,6 +4392,19 @@
     "rotowire_id": 11765,
     "espn_id": 3139605,
     "yahoo_id": 30256
+  },
+  {
+    "team": "denver broncos",
+    "symbol": "den",
+    "fullname": "jordan leggett",
+    "first": "jordan",
+    "last": "leggett",
+    "position": "te",
+    "jersey_number": 81,
+    "sleeper_id": "4153",
+    "rotowire_id": 11893,
+    "espn_id": 3045118,
+    "yahoo_id": 30263
   },
   {
     "team": "chicago bears",
@@ -4309,7 +4543,7 @@
     "first": "eric",
     "last": "saubert",
     "position": "te",
-    "jersey_number": 82,
+    "jersey_number": 85,
     "sleeper_id": "4189",
     "rotowire_id": 11897,
     "espn_id": 2975863,
@@ -4381,8 +4615,8 @@
     "yahoo_id": 30283
   },
   {
-    "team": "washington football team",
-    "symbol": "was",
+    "team": "carolina panthers",
+    "symbol": "car",
     "fullname": "shelton gibson",
     "first": "shelton",
     "last": "gibson",
@@ -4511,13 +4745,13 @@
     "yahoo_id": 30350
   },
   {
-    "team": "dallas cowboys",
-    "symbol": "dal",
+    "team": "kansas city chiefs",
+    "symbol": "kc",
     "fullname": "elijah mcguire",
     "first": "elijah",
     "last": "mcguire",
     "position": "rb",
-    "jersey_number": 30,
+    "jersey_number": 34,
     "sleeper_id": "4263",
     "rotowire_id": 11766,
     "espn_id": 3042494,
@@ -4548,6 +4782,19 @@
     "rotowire_id": 12216,
     "espn_id": 4212909,
     "yahoo_id": 30339
+  },
+  {
+    "team": "minnesota vikings",
+    "symbol": "min",
+    "fullname": "khalfani muhammad",
+    "first": "khalfani",
+    "last": "muhammad",
+    "position": "rb",
+    "jersey_number": 33,
+    "sleeper_id": "4283",
+    "rotowire_id": 12089,
+    "espn_id": 3052143,
+    "yahoo_id": 30355
   },
   {
     "team": "las vegas raiders",
@@ -4602,6 +4849,19 @@
     "yahoo_id": 30523
   },
   {
+    "team": "jacksonville jaguars",
+    "symbol": "jax",
+    "fullname": "bug howard",
+    "first": "bug",
+    "last": "howard",
+    "position": "wr",
+    "jersey_number": 85,
+    "sleeper_id": "4326",
+    "rotowire_id": 11862,
+    "espn_id": 3039720,
+    "yahoo_id": 30526
+  },
+  {
     "team": "cleveland browns",
     "symbol": "cle",
     "fullname": "jojo natson",
@@ -4652,6 +4912,19 @@
     "rotowire_id": 12443,
     "espn_id": 2973626,
     "yahoo_id": 30513
+  },
+  {
+    "team": "new york giants",
+    "symbol": "nyg",
+    "fullname": "taquan mizzell",
+    "first": "taquan",
+    "last": "mizzell",
+    "position": "rb",
+    "jersey_number": 44,
+    "sleeper_id": "4349",
+    "rotowire_id": 12231,
+    "espn_id": 3048680,
+    "yahoo_id": 900125
   },
   {
     "team": "denver broncos",
@@ -4758,8 +5031,8 @@
     "yahoo_id": 30627
   },
   {
-    "team": "tampa bay buccaneers",
-    "symbol": "tb",
+    "team": "arizona cardinals",
+    "symbol": "ari",
     "fullname": "isaac whitney",
     "first": "isaac",
     "last": "whitney",
@@ -4875,8 +5148,8 @@
     "yahoo_id": 30681
   },
   {
-    "team": "kansas city chiefs",
-    "symbol": "kc",
+    "team": "miami dolphins",
+    "symbol": "mia",
     "fullname": "marcus kemp",
     "first": "marcus",
     "last": "kemp",
@@ -4888,8 +5161,8 @@
     "yahoo_id": 30682
   },
   {
-    "team": "indianapolis colts",
-    "symbol": "ind",
+    "team": "arizona cardinals",
+    "symbol": "ari",
     "fullname": "krishawn hogan",
     "first": "krishawn",
     "last": "hogan",
@@ -4940,17 +5213,30 @@
     "yahoo_id": 30784
   },
   {
-    "team": "new york giants",
-    "symbol": "nyg",
+    "team": "dallas cowboys",
+    "symbol": "dal",
     "fullname": "cooper rush",
     "first": "cooper",
     "last": "rush",
     "position": "qb",
-    "jersey_number": 13,
+    "jersey_number": 10,
     "sleeper_id": "4574",
     "rotowire_id": 11841,
     "espn_id": 2972515,
     "yahoo_id": 30788
+  },
+  {
+    "team": "chicago bears",
+    "symbol": "chi",
+    "fullname": "kyle sloter",
+    "first": "kyle",
+    "last": "sloter",
+    "position": "qb",
+    "jersey_number": 1,
+    "sleeper_id": "4588",
+    "rotowire_id": 12363,
+    "espn_id": 2972092,
+    "yahoo_id": 30822
   },
   {
     "team": "green bay packers",
@@ -5024,7 +5310,7 @@
     "first": "sean",
     "last": "culkin",
     "position": "te",
-    "jersey_number": 80,
+    "jersey_number": 84,
     "sleeper_id": "4660",
     "rotowire_id": 12405,
     "espn_id": 2971426,
@@ -5057,8 +5343,8 @@
     "yahoo_id": 30426
   },
   {
-    "team": "arizona cardinals",
-    "symbol": "ari",
+    "team": "miami dolphins",
+    "symbol": "mia",
     "fullname": "andre patton",
     "first": "andre",
     "last": "patton",
@@ -5068,6 +5354,32 @@
     "rotowire_id": 12539,
     "espn_id": 3047504,
     "yahoo_id": 30430
+  },
+  {
+    "team": "houston texans",
+    "symbol": "hou",
+    "fullname": "artavis scott",
+    "first": "artavis",
+    "last": "scott",
+    "position": "wr",
+    "jersey_number": 1,
+    "sleeper_id": "4670",
+    "rotowire_id": 11722,
+    "espn_id": 3122839,
+    "yahoo_id": 30432
+  },
+  {
+    "team": "washington football team",
+    "symbol": "was",
+    "fullname": "tyrone swoopes",
+    "first": "tyrone",
+    "last": "swoopes",
+    "position": "te",
+    "jersey_number": 46,
+    "sleeper_id": "4678",
+    "rotowire_id": 12049,
+    "espn_id": 3046705,
+    "yahoo_id": 30763
   },
   {
     "team": "chicago bears",
@@ -5174,21 +5486,34 @@
     "yahoo_id": 30901
   },
   {
+    "team": "tennessee titans",
+    "symbol": "ten",
+    "fullname": "rashard davis",
+    "first": "rashard",
+    "last": "davis",
+    "position": "wr",
+    "jersey_number": 12,
+    "sleeper_id": "4828",
+    "rotowire_id": 12367,
+    "espn_id": 3049329,
+    "yahoo_id": 30940
+  },
+  {
     "team": "san francisco 49ers",
     "symbol": "sf",
     "fullname": "river cracraft",
     "first": "river",
     "last": "cracraft",
     "position": "wr",
-    "jersey_number": 14,
+    "jersey_number": 86,
     "sleeper_id": "4854",
     "rotowire_id": 12447,
     "espn_id": 3052056,
     "yahoo_id": 30955
   },
   {
-    "team": "tampa bay buccaneers",
-    "symbol": "tb",
+    "team": "san francisco 49ers",
+    "symbol": "sf",
     "fullname": "josh rosen",
     "first": "josh",
     "last": "rosen",
@@ -5421,13 +5746,13 @@
     "yahoo_id": 31005
   },
   {
-    "team": "san francisco 49ers",
-    "symbol": "sf",
+    "team": "new york giants",
+    "symbol": "nyg",
     "fullname": "dante pettis",
     "first": "dante",
     "last": "pettis",
     "position": "wr",
-    "jersey_number": 18,
+    "jersey_number": 13,
     "sleeper_id": "4992",
     "rotowire_id": 12884,
     "espn_id": 3127306,
@@ -5453,7 +5778,7 @@
     "first": "kalen",
     "last": "ballage",
     "position": "rb",
-    "jersey_number": 29,
+    "jersey_number": 31,
     "sleeper_id": "4994",
     "rotowire_id": 12786,
     "espn_id": 3128774,
@@ -5544,11 +5869,24 @@
     "first": "jaleel",
     "last": "scott",
     "position": "wr",
-    "jersey_number": 12,
+    "jersey_number": 18,
     "sleeper_id": "5005",
     "rotowire_id": 12776,
     "espn_id": 4040792,
     "yahoo_id": 31102
+  },
+  {
+    "team": "houston texans",
+    "symbol": "hou",
+    "fullname": "j'mon moore",
+    "first": "j'mon",
+    "last": "moore",
+    "position": "wr",
+    "jersey_number": 16,
+    "sleeper_id": "5006",
+    "rotowire_id": 12811,
+    "espn_id": 3051857,
+    "yahoo_id": 31103
   },
   {
     "team": "houston texans",
@@ -5798,8 +6136,8 @@
     "yahoo_id": 31141
   },
   {
-    "team": "houston texans",
-    "symbol": "hou",
+    "team": "denver broncos",
+    "symbol": "den",
     "fullname": "troy fumagalli",
     "first": "troy",
     "last": "fumagalli",
@@ -5889,6 +6227,19 @@
     "yahoo_id": 31129
   },
   {
+    "team": "washington football team",
+    "symbol": "was",
+    "fullname": "dylan cantrell",
+    "first": "dylan",
+    "last": "cantrell",
+    "position": "te",
+    "jersey_number": 82,
+    "sleeper_id": "5103",
+    "rotowire_id": 12920,
+    "espn_id": 3052576,
+    "yahoo_id": 31161
+  },
+  {
     "team": "pittsburgh steelers",
     "symbol": "pit",
     "fullname": "jaylen samuels",
@@ -5928,13 +6279,13 @@
     "yahoo_id": 31194
   },
   {
-    "team": "detroit lions",
-    "symbol": "det",
+    "team": "seattle seahawks",
+    "symbol": "sea",
     "fullname": "bo scarbrough",
     "first": "bo",
     "last": "scarbrough",
     "position": "rb",
-    "jersey_number": 43,
+    "jersey_number": 40,
     "sleeper_id": "5112",
     "rotowire_id": 12617,
     "espn_id": 3126367,
@@ -5967,13 +6318,13 @@
     "yahoo_id": 31207
   },
   {
-    "team": "arizona cardinals",
-    "symbol": "ari",
+    "team": "new england patriots",
+    "symbol": "ne",
     "fullname": "jordan thomas",
     "first": "jordan",
     "last": "thomas",
     "position": "te",
-    "jersey_number": 80,
+    "jersey_number": 83,
     "sleeper_id": "5117",
     "rotowire_id": 12697,
     "espn_id": 4035379,
@@ -6045,8 +6396,8 @@
     "yahoo_id": 31174
   },
   {
-    "team": "houston texans",
-    "symbol": "hou",
+    "team": "seattle seahawks",
+    "symbol": "sea",
     "fullname": "alex mcgough",
     "first": "alex",
     "last": "mcgough",
@@ -6181,7 +6532,7 @@
     "first": "trey",
     "last": "quinn",
     "position": "wr",
-    "jersey_number": 18,
+    "jersey_number": 16,
     "sleeper_id": "5139",
     "rotowire_id": 12493,
     "espn_id": 3115365,
@@ -6212,6 +6563,19 @@
     "rotowire_id": 13061,
     "espn_id": 3122168,
     "yahoo_id": 31320
+  },
+  {
+    "team": "indianapolis colts",
+    "symbol": "ind",
+    "fullname": "andrew vollert",
+    "first": "andrew",
+    "last": "vollert",
+    "position": "te",
+    "jersey_number": 87,
+    "sleeper_id": "5156",
+    "rotowire_id": 12693,
+    "espn_id": 4032479,
+    "yahoo_id": 31325
   },
   {
     "team": "carolina panthers",
@@ -6318,8 +6682,8 @@
     "yahoo_id": 31400
   },
   {
-    "team": "indianapolis colts",
-    "symbol": "ind",
+    "team": "new orleans saints",
+    "symbol": "no",
     "fullname": "ethan wolf",
     "first": "ethan",
     "last": "wolf",
@@ -6409,6 +6773,19 @@
     "yahoo_id": 31347
   },
   {
+    "team": "atlanta falcons",
+    "symbol": "atl",
+    "fullname": "devin gray",
+    "first": "devin",
+    "last": "gray",
+    "position": "wr",
+    "jersey_number": 19,
+    "sleeper_id": "5244",
+    "rotowire_id": 13085,
+    "espn_id": 4037481,
+    "yahoo_id": 31349
+  },
+  {
     "team": "baltimore ravens",
     "symbol": "bal",
     "fullname": "gus edwards",
@@ -6422,13 +6799,13 @@
     "yahoo_id": 31424
   },
   {
-    "team": "green bay packers",
-    "symbol": "gb",
+    "team": "washington football team",
+    "symbol": "was",
     "fullname": "robert foster",
     "first": "robert",
     "last": "foster",
     "position": "wr",
-    "jersey_number": 16,
+    "jersey_number": 19,
     "sleeper_id": "5250",
     "rotowire_id": 12909,
     "espn_id": 3054845,
@@ -6519,7 +6896,7 @@
     "first": "jeff",
     "last": "badet",
     "position": "wr",
-    "jersey_number": 13,
+    "jersey_number": 84,
     "sleeper_id": "5275",
     "rotowire_id": 12739,
     "espn_id": 3053760,
@@ -6617,19 +6994,6 @@
     "yahoo_id": 31404
   },
   {
-    "team": "miami dolphins",
-    "symbol": "mia",
-    "fullname": "antonio callaway",
-    "first": "antonio",
-    "last": "callaway",
-    "position": "wr",
-    "jersey_number": 11,
-    "sleeper_id": "5310",
-    "rotowire_id": 12468,
-    "espn_id": 3915097,
-    "yahoo_id": 31075
-  },
-  {
     "team": "green bay packers",
     "symbol": "gb",
     "fullname": "equanimeous st. brown",
@@ -6721,8 +7085,8 @@
     "yahoo_id": 31427
   },
   {
-    "team": "cleveland browns",
-    "symbol": "cle",
+    "team": "houston texans",
+    "symbol": "hou",
     "fullname": "dontrell hilliard",
     "first": "dontrell",
     "last": "hilliard",
@@ -6732,6 +7096,19 @@
     "rotowire_id": 13135,
     "espn_id": 3126246,
     "yahoo_id": 31457
+  },
+  {
+    "team": "cleveland browns",
+    "symbol": "cle",
+    "fullname": "derrick willies",
+    "first": "derrick",
+    "last": "willies",
+    "position": "wr",
+    "jersey_number": 84,
+    "sleeper_id": "5539",
+    "rotowire_id": 13138,
+    "espn_id": 3040137,
+    "yahoo_id": 31462
   },
   {
     "team": "kansas city chiefs",
@@ -6760,6 +7137,32 @@
     "yahoo_id": 31508
   },
   {
+    "team": "detroit lions",
+    "symbol": "det",
+    "fullname": "dalyn dawkins",
+    "first": "dalyn",
+    "last": "dawkins",
+    "position": "rb",
+    "jersey_number": 28,
+    "sleeper_id": "5619",
+    "rotowire_id": 13293,
+    "espn_id": 3052449,
+    "yahoo_id": 31620
+  },
+  {
+    "team": "dallas cowboys",
+    "symbol": "dal",
+    "fullname": "chris lacy",
+    "first": "chris",
+    "last": "lacy",
+    "position": "wr",
+    "jersey_number": 15,
+    "sleeper_id": "5661",
+    "rotowire_id": 12952,
+    "espn_id": 3122430,
+    "yahoo_id": 31651
+  },
+  {
     "team": "atlanta falcons",
     "symbol": "atl",
     "fullname": "brandon powell",
@@ -6771,6 +7174,32 @@
     "rotowire_id": 13036,
     "espn_id": 3115255,
     "yahoo_id": 31641
+  },
+  {
+    "team": "tampa bay buccaneers",
+    "symbol": "tb",
+    "fullname": "john franklin",
+    "first": "john",
+    "last": "franklin",
+    "position": "wr",
+    "jersey_number": 5,
+    "sleeper_id": "5705",
+    "rotowire_id": 13207,
+    "espn_id": 4035496,
+    "yahoo_id": 31712
+  },
+  {
+    "team": "seattle seahawks",
+    "symbol": "sea",
+    "fullname": "darvin kidsy",
+    "first": "darvin",
+    "last": "kidsy",
+    "position": "wr",
+    "jersey_number": 84,
+    "sleeper_id": "5722",
+    "rotowire_id": 13321,
+    "espn_id": 3051650,
+    "yahoo_id": 31722
   },
   {
     "team": "atlanta falcons",
@@ -7243,6 +7672,19 @@
   {
     "team": "pittsburgh steelers",
     "symbol": "pit",
+    "fullname": "anthony johnson",
+    "first": "anthony",
+    "last": "johnson",
+    "position": "wr",
+    "jersey_number": 83,
+    "sleeper_id": "5929",
+    "rotowire_id": 13788,
+    "espn_id": 4049301,
+    "yahoo_id": 32482
+  },
+  {
+    "team": "pittsburgh steelers",
+    "symbol": "pit",
     "fullname": "diontae johnson",
     "first": "diontae",
     "last": "johnson",
@@ -7293,8 +7735,8 @@
     "yahoo_id": 31981
   },
   {
-    "team": "detroit lions",
-    "symbol": "det",
+    "team": "green bay packers",
+    "symbol": "gb",
     "fullname": "isaac nauta",
     "first": "isaac",
     "last": "nauta",
@@ -7514,6 +7956,19 @@
     "yahoo_id": 32036
   },
   {
+    "team": "green bay packers",
+    "symbol": "gb",
+    "fullname": "dax raymond",
+    "first": "dax",
+    "last": "raymond",
+    "position": "te",
+    "jersey_number": 46,
+    "sleeper_id": "6016",
+    "rotowire_id": 13440,
+    "espn_id": 3932963,
+    "yahoo_id": 32261
+  },
+  {
     "team": "pittsburgh steelers",
     "symbol": "pit",
     "fullname": "zach gentry",
@@ -7564,6 +8019,19 @@
     "rotowire_id": 13587,
     "espn_id": 3915411,
     "yahoo_id": 32018
+  },
+  {
+    "team": "baltimore ravens",
+    "symbol": "bal",
+    "fullname": "gary jennings",
+    "first": "gary",
+    "last": "jennings",
+    "position": "wr",
+    "jersey_number": 16,
+    "sleeper_id": "6045",
+    "rotowire_id": 13635,
+    "espn_id": 3916071,
+    "yahoo_id": 31952
   },
   {
     "team": "philadelphia eagles",
@@ -7649,7 +8117,7 @@
     "fullname": "jesper horsted",
     "first": "jesper",
     "last": "horsted",
-    "position": "wr",
+    "position": "te",
     "jersey_number": 87,
     "sleeper_id": "6075",
     "rotowire_id": 13639,
@@ -7670,13 +8138,13 @@
     "yahoo_id": 32125
   },
   {
-    "team": "indianapolis colts",
-    "symbol": "ind",
+    "team": "los angeles rams",
+    "symbol": "lar",
     "fullname": "matt gay",
     "first": "matt",
     "last": "gay",
     "position": "k",
-    "jersey_number": 9,
+    "jersey_number": 1,
     "sleeper_id": "6083",
     "rotowire_id": 13673,
     "espn_id": 4249087,
@@ -7694,6 +8162,19 @@
     "rotowire_id": 13867,
     "espn_id": 3917067,
     "yahoo_id": 32079
+  },
+  {
+    "team": "san francisco 49ers",
+    "symbol": "sf",
+    "fullname": "daniel helm",
+    "first": "daniel",
+    "last": "helm",
+    "position": "te",
+    "jersey_number": 88,
+    "sleeper_id": "6089",
+    "rotowire_id": 13685,
+    "espn_id": 3115359,
+    "yahoo_id": 32543
   },
   {
     "team": "cincinnati bengals",
@@ -7832,7 +8313,7 @@
     "first": "clayton",
     "last": "thorson",
     "position": "qb",
-    "jersey_number": 5,
+    "jersey_number": 17,
     "sleeper_id": "6147",
     "rotowire_id": 13513,
     "espn_id": 3116144,
@@ -7904,6 +8385,19 @@
     "yahoo_id": 32418
   },
   {
+    "team": "green bay packers",
+    "symbol": "gb",
+    "fullname": "mike weber",
+    "first": "mike",
+    "last": "weber",
+    "position": "rb",
+    "jersey_number": 38,
+    "sleeper_id": "6159",
+    "rotowire_id": 13456,
+    "espn_id": 3915536,
+    "yahoo_id": 32050
+  },
+  {
     "team": "houston texans",
     "symbol": "hou",
     "fullname": "kahale warring",
@@ -7928,6 +8422,19 @@
     "rotowire_id": 13447,
     "espn_id": 4043161,
     "yahoo_id": 32317
+  },
+  {
+    "team": "detroit lions",
+    "symbol": "det",
+    "fullname": "jordan scarlett",
+    "first": "jordan",
+    "last": "scarlett",
+    "position": "rb",
+    "jersey_number": 20,
+    "sleeper_id": "6167",
+    "rotowire_id": 13510,
+    "espn_id": 3915115,
+    "yahoo_id": 31986
   },
   {
     "team": "seattle seahawks",
@@ -8079,7 +8586,7 @@
     "first": "juwann",
     "last": "winfree",
     "position": "wr",
-    "jersey_number": 15,
+    "jersey_number": 88,
     "sleeper_id": "6223",
     "rotowire_id": 13664,
     "espn_id": 3128317,
@@ -8097,6 +8604,19 @@
     "rotowire_id": 14184,
     "espn_id": 3118906,
     "yahoo_id": 32364
+  },
+  {
+    "team": "los angeles chargers",
+    "symbol": "lac",
+    "fullname": "matt sokol",
+    "first": "matt",
+    "last": "sokol",
+    "position": "te",
+    "jersey_number": 84,
+    "sleeper_id": "6233",
+    "rotowire_id": 13686,
+    "espn_id": 3121378,
+    "yahoo_id": 32551
   },
   {
     "team": "new orleans saints",
@@ -8149,6 +8669,32 @@
     "rotowire_id": 13999,
     "espn_id": 4069806,
     "yahoo_id": 32547
+  },
+  {
+    "team": "pittsburgh steelers",
+    "symbol": "pit",
+    "fullname": "matthew wright",
+    "first": "matthew",
+    "last": "wright",
+    "position": "k",
+    "jersey_number": 16,
+    "sleeper_id": "6268",
+    "rotowire_id": 14189,
+    "espn_id": 3128444,
+    "yahoo_id": 32174
+  },
+  {
+    "team": "cincinnati bengals",
+    "symbol": "cin",
+    "fullname": "kyle shurmur",
+    "first": "kyle",
+    "last": "shurmur",
+    "position": "qb",
+    "jersey_number": 9,
+    "sleeper_id": "6269",
+    "rotowire_id": 13663,
+    "espn_id": 3915776,
+    "yahoo_id": 32366
   },
   {
     "team": "atlanta falcons",
@@ -8255,8 +8801,8 @@
     "yahoo_id": 32225
   },
   {
-    "team": "green bay packers",
-    "symbol": "gb",
+    "team": "denver broncos",
+    "symbol": "den",
     "fullname": "damarea crockett",
     "first": "damarea",
     "last": "crockett",
@@ -8411,8 +8957,8 @@
     "yahoo_id": 32292
   },
   {
-    "team": "indianapolis colts",
-    "symbol": "ind",
+    "team": "minnesota vikings",
+    "symbol": "min",
     "fullname": "hale hentges",
     "first": "hale",
     "last": "hentges",
@@ -8541,6 +9087,19 @@
     "yahoo_id": 32449
   },
   {
+    "team": "jacksonville jaguars",
+    "symbol": "jax",
+    "fullname": "damion willis",
+    "first": "damion",
+    "last": "willis",
+    "position": "wr",
+    "jersey_number": 15,
+    "sleeper_id": "6549",
+    "rotowire_id": 14214,
+    "espn_id": 4241723,
+    "yahoo_id": 32471
+  },
+  {
     "team": "new orleans saints",
     "symbol": "no",
     "fullname": "malik henry",
@@ -8560,11 +9119,24 @@
     "first": "austin",
     "last": "walter",
     "position": "rb",
-    "jersey_number": 29,
+    "jersey_number": 48,
     "sleeper_id": "6553",
     "rotowire_id": 14170,
     "espn_id": 3123857,
     "yahoo_id": 32383
+  },
+  {
+    "team": "san francisco 49ers",
+    "symbol": "sf",
+    "fullname": "shawn poindexter",
+    "first": "shawn",
+    "last": "poindexter",
+    "position": "wr",
+    "jersey_number": 1,
+    "sleeper_id": "6554",
+    "rotowire_id": 13588,
+    "espn_id": 4039604,
+    "yahoo_id": 32325
   },
   {
     "team": "new york jets",
@@ -8580,6 +9152,19 @@
     "yahoo_id": 32533
   },
   {
+    "team": "atlanta falcons",
+    "symbol": "atl",
+    "fullname": "tony brooks-james",
+    "first": "tony",
+    "last": "brooks-james",
+    "position": "rb",
+    "jersey_number": 36,
+    "sleeper_id": "6585",
+    "rotowire_id": 14237,
+    "espn_id": 3886841,
+    "yahoo_id": 32559
+  },
+  {
     "team": "detroit lions",
     "symbol": "det",
     "fullname": "tom kennedy",
@@ -8591,6 +9176,19 @@
     "rotowire_id": 14246,
     "espn_id": 3126997,
     "yahoo_id": 32561
+  },
+  {
+    "team": "pittsburgh steelers",
+    "symbol": "pit",
+    "fullname": "charles jones",
+    "first": "charles",
+    "last": "jones",
+    "position": "te",
+    "jersey_number": 85,
+    "sleeper_id": "6591",
+    "rotowire_id": 14248,
+    "espn_id": 3126263,
+    "yahoo_id": 32565
   },
   {
     "team": "pittsburgh steelers",
@@ -8619,8 +9217,8 @@
     "yahoo_id": 32438
   },
   {
-    "team": "dallas cowboys",
-    "symbol": "dal",
+    "team": "carolina panthers",
+    "symbol": "car",
     "fullname": "ventell bryant",
     "first": "ventell",
     "last": "bryant",
@@ -8632,13 +9230,13 @@
     "yahoo_id": 32556
   },
   {
-    "team": "minnesota vikings",
-    "symbol": "min",
+    "team": "new york jets",
+    "symbol": "nyj",
     "fullname": "chase mclaughlin",
     "first": "chase",
     "last": "mclaughlin",
     "position": "k",
-    "jersey_number": 7,
+    "jersey_number": 3,
     "sleeper_id": "6650",
     "rotowire_id": 14254,
     "espn_id": 3150744,
@@ -8651,11 +9249,24 @@
     "first": "craig",
     "last": "reynolds",
     "position": "rb",
-    "jersey_number": 42,
+    "jersey_number": 48,
     "sleeper_id": "6659",
     "rotowire_id": 13960,
     "espn_id": 4421446,
     "yahoo_id": 32596
+  },
+  {
+    "team": "tennessee titans",
+    "symbol": "ten",
+    "fullname": "parker hesse",
+    "first": "parker",
+    "last": "hesse",
+    "position": "te",
+    "jersey_number": 83,
+    "sleeper_id": "6662",
+    "rotowire_id": 14295,
+    "espn_id": 3144991,
+    "yahoo_id": 32588
   },
   {
     "team": "kansas city chiefs",
@@ -8710,8 +9321,8 @@
     "yahoo_id": 32612
   },
   {
-    "team": "kansas city chiefs",
-    "symbol": "kc",
+    "team": "detroit lions",
+    "symbol": "det",
     "fullname": "jordan ta'amu",
     "first": "jordan",
     "last": "ta'amu",
@@ -8734,6 +9345,19 @@
     "rotowire_id": 11883,
     "espn_id": 3040035,
     "yahoo_id": 30715
+  },
+  {
+    "team": "los angeles chargers",
+    "symbol": "lac",
+    "fullname": "derrick gore",
+    "first": "derrick",
+    "last": "gore",
+    "position": "rb",
+    "jersey_number": 35,
+    "sleeper_id": "6753",
+    "rotowire_id": 14334,
+    "espn_id": 3925346,
+    "yahoo_id": 32630
   },
   {
     "team": "chicago bears",
@@ -9633,6 +10257,19 @@
     "yahoo_id": 33101
   },
   {
+    "team": "washington football team",
+    "symbol": "was",
+    "fullname": "javon leake",
+    "first": "javon",
+    "last": "leake",
+    "position": "rb",
+    "jersey_number": 38,
+    "sleeper_id": "6966",
+    "rotowire_id": 14361,
+    "espn_id": 4241940,
+    "yahoo_id": 33037
+  },
+  {
     "team": "seattle seahawks",
     "symbol": "sea",
     "fullname": "aaron fuller",
@@ -9651,8 +10288,8 @@
     "fullname": "stephen sullivan",
     "first": "stephen",
     "last": "sullivan",
-    "position": "wr",
-    "jersey_number": 87,
+    "position": "te",
+    "jersey_number": 48,
     "sleeper_id": "6970",
     "rotowire_id": 14570,
     "espn_id": 4035426,
@@ -9722,6 +10359,19 @@
     "rotowire_id": 14556,
     "espn_id": 4035170,
     "yahoo_id": 33109
+  },
+  {
+    "team": "washington football team",
+    "symbol": "was",
+    "fullname": "michael warren",
+    "first": "michael",
+    "last": "warren",
+    "position": "rb",
+    "jersey_number": 40,
+    "sleeper_id": "6992",
+    "rotowire_id": 14496,
+    "espn_id": 4239083,
+    "yahoo_id": 32972
   },
   {
     "team": "san francisco 49ers",
@@ -9984,19 +10634,6 @@
     "yahoo_id": 32860
   },
   {
-    "team": "washington football team",
-    "symbol": "was",
-    "fullname": "tony brown",
-    "first": "tony",
-    "last": "brown",
-    "position": "wr",
-    "jersey_number": 12,
-    "sleeper_id": "7078",
-    "rotowire_id": 14603,
-    "espn_id": 3915821,
-    "yahoo_id": 33303
-  },
-  {
     "team": "carolina panthers",
     "symbol": "car",
     "fullname": "omar bayless",
@@ -10153,6 +10790,19 @@
     "yahoo_id": 32966
   },
   {
+    "team": "los angeles rams",
+    "symbol": "lar",
+    "fullname": "austin macginnis",
+    "first": "austin",
+    "last": "macginnis",
+    "position": "k",
+    "jersey_number": 8,
+    "sleeper_id": "7095",
+    "rotowire_id": 14354,
+    "espn_id": 3053774,
+    "yahoo_id": 32667
+  },
+  {
     "team": "baltimore ravens",
     "symbol": "bal",
     "fullname": "ty'son williams",
@@ -10166,26 +10816,13 @@
     "yahoo_id": 33006
   },
   {
-    "team": "new york giants",
-    "symbol": "nyg",
-    "fullname": "derrick dillon",
-    "first": "derrick",
-    "last": "dillon",
-    "position": "wr",
-    "jersey_number": 6,
-    "sleeper_id": "7100",
-    "rotowire_id": 14803,
-    "espn_id": 3843469,
-    "yahoo_id": 33038
-  },
-  {
     "team": "carolina panthers",
     "symbol": "car",
     "fullname": "rodney smith",
     "first": "rodney",
     "last": "smith",
     "position": "rb",
-    "jersey_number": 36,
+    "jersey_number": 35,
     "sleeper_id": "7101",
     "rotowire_id": 14435,
     "espn_id": null,
@@ -10283,8 +10920,8 @@
     "yahoo_id": 32901
   },
   {
-    "team": "new orleans saints",
-    "symbol": "no",
+    "team": "carolina panthers",
+    "symbol": "car",
     "fullname": "tommy stevens",
     "first": "tommy",
     "last": "stevens",
@@ -10296,8 +10933,8 @@
     "yahoo_id": 32910
   },
   {
-    "team": "los angeles rams",
-    "symbol": "lar",
+    "team": "tennessee titans",
+    "symbol": "ten",
     "fullname": "sam sloman",
     "first": "sam",
     "last": "sloman",
@@ -10315,7 +10952,7 @@
     "first": "reid",
     "last": "sinnett",
     "position": "qb",
-    "jersey_number": 7,
+    "jersey_number": 17,
     "sleeper_id": "7159",
     "rotowire_id": 14846,
     "espn_id": 3926936,
@@ -10385,6 +11022,19 @@
     "rotowire_id": 14844,
     "espn_id": 4039505,
     "yahoo_id": 33357
+  },
+  {
+    "team": "denver broncos",
+    "symbol": "den",
+    "fullname": "kendall hinton",
+    "first": "kendall",
+    "last": "hinton",
+    "position": "wr",
+    "jersey_number": 2,
+    "sleeper_id": "7210",
+    "rotowire_id": 14593,
+    "espn_id": 3700815,
+    "yahoo_id": 32929
   },
   {
     "team": "carolina panthers",
@@ -10621,19 +11271,6 @@
     "yahoo_id": 33021
   },
   {
-    "team": "green bay packers",
-    "symbol": "gb",
-    "fullname": "nakia griffin-stewart",
-    "first": "nakia",
-    "last": "griffin-stewart",
-    "position": "te",
-    "jersey_number": 87,
-    "sleeper_id": "7359",
-    "rotowire_id": 15110,
-    "espn_id": 3930035,
-    "yahoo_id": 33031
-  },
-  {
     "team": "arizona cardinals",
     "symbol": "ari",
     "fullname": "jojo ward",
@@ -10727,24 +11364,11 @@
   {
     "team": "new england patriots",
     "symbol": "ne",
-    "fullname": "mason kinsey",
-    "first": "mason",
-    "last": "kinsey",
-    "position": "wr",
-    "jersey_number": 84,
-    "sleeper_id": "7436",
-    "rotowire_id": 14858,
-    "espn_id": 4057082,
-    "yahoo_id": 33351
-  },
-  {
-    "team": "new england patriots",
-    "symbol": "ne",
     "fullname": "kristian wilkerson",
     "first": "kristian",
     "last": "wilkerson",
     "position": "wr",
-    "jersey_number": 88,
+    "jersey_number": 17,
     "sleeper_id": "7438",
     "rotowire_id": 15163,
     "espn_id": 3910176,
@@ -10801,6 +11425,19 @@
     "rotowire_id": 14892,
     "espn_id": null,
     "yahoo_id": 33274
+  },
+  {
+    "team": "los angeles chargers",
+    "symbol": "lac",
+    "fullname": "john hurst",
+    "first": "john",
+    "last": "hurst",
+    "position": "wr",
+    "jersey_number": 6,
+    "sleeper_id": "7455",
+    "rotowire_id": 14877,
+    "espn_id": 4683123,
+    "yahoo_id": 33295
   },
   {
     "team": "new england patriots",
@@ -10907,6 +11544,19 @@
     "yahoo_id": 33348
   },
   {
+    "team": "green bay packers",
+    "symbol": "gb",
+    "fullname": "dominique dafney",
+    "first": "dominique",
+    "last": "dafney",
+    "position": "te",
+    "jersey_number": 49,
+    "sleeper_id": "7502",
+    "rotowire_id": 15181,
+    "espn_id": 4036129,
+    "yahoo_id": 33367
+  },
+  {
     "team": "los angeles chargers",
     "symbol": "lac",
     "fullname": "darius bradwell",
@@ -10916,6 +11566,32 @@
     "jersey_number": 34,
     "sleeper_id": "7505",
     "rotowire_id": null,
+    "espn_id": null,
+    "yahoo_id": null
+  },
+  {
+    "team": "new york jets",
+    "symbol": "nyj",
+    "fullname": "sergio castillo",
+    "first": "sergio",
+    "last": "castillo",
+    "position": "k",
+    "jersey_number": 6,
+    "sleeper_id": "7515",
+    "rotowire_id": 9844,
+    "espn_id": null,
+    "yahoo_id": null
+  },
+  {
+    "team": "denver broncos",
+    "symbol": "den",
+    "fullname": "taylor russolino",
+    "first": "taylor",
+    "last": "russolino",
+    "position": "k",
+    "jersey_number": 1,
+    "sleeper_id": "7518",
+    "rotowire_id": 15225,
     "espn_id": null,
     "yahoo_id": null
   }
